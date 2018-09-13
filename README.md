@@ -1,4 +1,4 @@
-# Python_DataStructure
+# Python DataStructure
 
 ##### Data Structures of Python.
 ##### These codes are what I was studing about Python Data Structure(abstract data type).
